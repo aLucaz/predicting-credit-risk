@@ -1,10 +1,9 @@
 # MODELOS PREDICTIVOS PARA LA CLASIFICACIÓN BINARIA DE RIESGOS CREDITICIOS
 
 En este repositorio, se han desarrollado 4 modelos predictivos de clasificación:
-- Árbol de decisión CART
+- Logistic Regression
 - Random forest
 - K-Nearest Neighbors
-- Neural Networks 
 
 Todos dentro de la categoría de Aprendizaje Supervisado.
 
